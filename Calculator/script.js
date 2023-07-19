@@ -1,7 +1,7 @@
 let num1 = ""
 let num2 = ""
 let operation = ""
-display = document.querySelector("#display")
+display = document.querySelector("#display") 
 
 const press = num => {
     num1 += num
